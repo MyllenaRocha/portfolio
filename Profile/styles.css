@@ -1,0 +1,138 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1767px;
+    
+    background: #22212C;
+    
+}
+
+
+.box {
+    
+
+}
+.profile {
+    position: absolute;
+    width: 348px;
+    height: 292px;
+    left: 40px;
+    top: 40px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.links {
+    position: absolute;
+    width: 348px;
+    height: 348px;
+    left: 40px;
+    top: 362px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.tecno {
+    position: absolute;
+    width: 348px;
+    height: 208px;
+    left: 40px;
+    top: 740px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    }
+
+.education {
+    position: absolute;
+    width: 348px;
+    height: 349px;
+    left: 40px;
+    top: 978px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+}
+
+.my_projects {
+    position: absolute;
+    width: 952px;
+    height: 86px;
+    left: 448px;
+    top: 40px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.project1 {
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 448px;
+    top: 157px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.project1_low {
+
+}
+.project2 {
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 939px;
+    top: 157px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.recentPosts {
+    position: absolute;
+    width: 952px;
+    height: 86px;
+    left: 448px;
+    top: 373px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.post {
+    position: absolute;
+    width: 952px;
+    height: 201px;
+    left: 448px;
+    top: 489px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+.project2_low {
+
+}
+footer {
+    position: absolute;
+    width: 206px;
+    height: 19px;
+    left: 617px;
+    top: 1728px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: #837E9F;
+}

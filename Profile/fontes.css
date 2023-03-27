@@ -1,0 +1,41 @@
+
+.profile p {
+/* Full Stack Developer */
+
+
+    position: absolute;
+    width: 128px;
+    height: 17px;
+    left: 150px;
+    top: 266px;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+
+
+    color: #837E9F;
+}
+.profile h3 {
+    position: absolute;
+    width: 196px;
+    height: 26px;
+    left: 116px;
+    top: 230px;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 29px;
+
+    color: #837E9F;
+
+}
+
+
+.skills {
+
+}

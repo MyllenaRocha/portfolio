@@ -1,0 +1,23 @@
+.profile img {
+    box-sizing: border-box;     
+
+    position: absolute;
+    width: 128px;
+    height: 135px;
+    left: 150px;
+    top: 72px;
+    border-radius: 100%;
+    border: 2px solid #00FF00;
+}
+
+.post img {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 10%;
+    height: 25%;
+    left: 150px;
+    top: 72px;
+    
+    border-radius: 50%;
+}
