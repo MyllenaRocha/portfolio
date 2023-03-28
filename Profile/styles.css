@@ -3,22 +3,24 @@
     padding: 0;
     text-decoration: none;
 }
-body {
+.container {
     position: relative;
-    width: 1440px;
-    height: 1767px;
+    width: 98.4vw;
+    height: 225vh;
     
     background: #22212C;
+    border: 2px solid #200fe2;
 }
 .box {
-    border: 2px solid #200fe2;
+    border: 2px solid #29888b;
+    
 }
 .profile {
     position: absolute;
-    width: 348px;
-    height: 292px;
-    left: 40px;
-    top: 40px;
+    width: 21.75rem;
+    height: 18.25rem;
+    left: 1rem;
+    top: 1rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -26,10 +28,10 @@ body {
 }
 .links {
     position: absolute;
-    width: 348px;
-    height: 348px;
-    left: 40px;
-    top: 362px;
+    width: 21.75rem;
+    height: 21.75rem;
+    left: 1rem;
+    top: 21.06rem;
 
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -38,10 +40,10 @@ body {
 
 .tecno {
     position: absolute;
-    width: 348px;
-    height: 208px;
-    left: 40px;
-    top: 740px;
+    width: 21.75rem;
+    height: 13rem;
+    left: 1rem;
+    top: 44.6rem;
 
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -50,10 +52,10 @@ body {
 
 .education {
     position: absolute;
-    width: 348px;
-    height: 349px;
-    left: 40px;
-    top: 978px;
+    width: 21.75rem;
+    height: 21.81rem;
+    left: 1rem;
+    top: 59.6rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -63,10 +65,10 @@ body {
 
 .my_projects {
     position: absolute;
-    width: 952px;
-    height: 86px;
-    left: 448px;
-    top: 40px;
+    width: 59.5rem;
+    height: 5.3rem;
+    left: 24.06rem;
+    top: 1.18rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -74,10 +76,10 @@ body {
 }
 .project1 {
     position: absolute;
-    width: 461px;
-    height: 186px;
-    left: 448px;
-    top: 157px;
+    width: 28.8rem;
+    height: 11.6rem;
+    left: 24.06rem;
+    top: 8.5rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -88,10 +90,10 @@ body {
 }
 .project2 {
     position: absolute;
-    width: 461px;
-    height: 186px;
-    left: 939px;
-    top: 157px;
+    width: 28.8rem;
+    height: 11.6rem;
+    left: 54.7rem;
+    top: 8.5rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -99,10 +101,10 @@ body {
 }
 .recentPosts {
     position: absolute;
-    width: 952px;
-    height: 86px;
-    left: 448px;
-    top: 373px;
+    width: 59.5rem;
+    height: 5.3rem;
+    left: 24.06rem;
+    top: 22rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -110,10 +112,10 @@ body {
 }
 .post {
     position: absolute;
-    width: 952px;
-    height: 201px;
-    left: 448px;
-    top: 489px;
+    width: 59.5rem;
+    height: 12.5rem;
+    left: 24.06rem;
+    top: 29.5rem;
     
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -124,16 +126,21 @@ body {
 }
 footer {
     position: absolute;
-    width: 206px;
-    height: 19px;
-    left: 617px;
-    top: 1728px;
+    width: 13.8rem;
+    height: 1.2rem;
+    left: 38.5rem;
+    top: 84.3rem;
     
     font-family: 'Merriweather Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 0.9rem;
+    line-height: 1.25rem;
     
     color: #837E9F;
 }
+/*
+@media only screen and (max-device-width: 900px) {
+    .body { width:100%; }
+}
+*/
