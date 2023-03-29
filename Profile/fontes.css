@@ -57,6 +57,70 @@
     left: 0.5rem;
     top: 1rem;
 }
-.skills {
+.tecno h3{
+    position: absolute;
+    width: 7.5rem;
+    height: 1.6rem;
+    left: 0.9rem;
+    top: 1.5rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+
+    color: #837E9F;
+}
+.left{
+    position: relative;
+    width: 6.3rem;
+    height: 0.7rem;
+    left: 1rem;
+    top: 3.5rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: .8rem;
+    line-height: 2rem;
+    text-align: center;
+    color: #000000;
+
+}
+.quite {
+    position: absolute;
+    width: 6.3rem;
+    height: 0.7rem;
+    left: 8rem;
+    top: 3.5rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: .8rem;
+    line-height: 2rem;
+    text-align: center;
+
+    color: #000000;
+}
+.rigth{
+    position: absolute;
+    width: 6.3rem;
+    height: 0.7rem;
+    left: 15rem;
+    top: 3.5rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: .8rem;
+    line-height: 2rem;
+    text-align: center;
+
+    color: #000000;
+    
+}
+.tecno p{
+    height: 2rem;
+    width: 6rem;
+    background: #CB92B1;
+    border-radius: 30px;
+    margin: revert;
 
 }
