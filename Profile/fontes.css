@@ -120,7 +120,141 @@
     height: 2rem;
     width: 6rem;
     background: #CB92B1;
-    border-radius: 30px;
+    border-radius: 1.8rem;
     margin: revert;
+}
+.education h3{
+    position: absolute;
+    width: 7.5rem;
+    height: 1.6rem;
+    left: 0.9rem;
+    top: 1.5rem;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+     
+    color: #837E9F;
+    
+}
+.education ul {
+    position: absolute;
+/*  width: 16rem;
+    height: 15.3rem; */
+    left: 5rem;
+    top: 5rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
 
+    color: #837E9F;
+}
+.my_projects p {
+    position: absolute;
+    width: 8.75rem;
+    height: 1.6rem;
+    left: 2rem;
+    top: 2rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    
+    color: #837E9F;
+}
+.my_projects a {
+    position: absolute;
+    width: 4.4rem;
+    height: 1.1rem;
+    left: 50rem;
+    top: 2rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.87rem;
+    line-height: 1.12rem;
+
+    color: #837E9F;
+}
+.project1 p {
+    width: 6rem;
+    height: 1.1rem;
+    top: 9rem;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.12rem;
+    
+    color: #837E9F;
+}
+#lang{
+    position: absolute;
+    left: 14rem;
+}
+#uage{
+    position: absolute;
+    left: 22rem;
+}
+#boxTs {
+    box-sizing: border-box;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 12.5rem;
+    top: 9rem;
+    border-radius: 2rem;
+    background: #3178c6;
+    border: 2px solid #837E9F;
+}
+#boxHtml {
+    box-sizing: border-box;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 20.5rem;
+    top: 9rem;
+    border-radius: 2rem;
+    background: #e34c26;
+    border: 2px solid #837E9F;
+}
+.proOne {
+    width: 12rem;
+    height: 2rem;
+    position: absolute;
+    left: 0.9rem;
+    top: 9rem;
+
+
+}
+.project1 h3 {
+    position: absolute;
+    width: 15.6rem;
+    height: 1.12rem;
+    left: 3rem;
+    top: 0.9rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: #837E9F;
+}
+.project1 h4 {
+    position: absolute;
+    width: 20rem;
+    height: 1.18rem;
+    left: 3rem;
+    top: 3rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.25rem;
+    color: #837E9F;
 }
