@@ -223,16 +223,14 @@
     background: #e34c26;
     border: 2px solid #837E9F;
 }
-.proOne {
+.proOne,.proTwo {
     width: 12rem;
     height: 2rem;
     position: absolute;
     left: 0.9rem;
     top: 9rem;
-
-
 }
-.project1 h3 {
+.project1 h3, .project2 h3 {
     position: absolute;
     width: 15.6rem;
     height: 1.12rem;
@@ -245,16 +243,119 @@
     line-height: 1.25rem;
     color: #837E9F;
 }
-.project1 h4 {
+.project1 h4, .project2 h4{
     position: absolute;
     width: 20rem;
     height: 1.18rem;
     left: 3rem;
-    top: 3rem;
+    top: 3.5rem;
     font-family: 'Merriweather Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 0.9rem;
     line-height: 1.25rem;
+    color: #837E9F;
+}
+.project2 p{
+    position: absolute;
+    width: 6rem;
+    height: 1.1rem;
+    left: 22rem;
+    top: 9rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.12rem;
+    color: #837E9F;
+}
+#boxPy {
+    box-sizing: border-box;
+    position: absolute;
+    width: 0.9rem;
+    height: 0.9rem;
+    left: 20.5rem;
+    top: 9rem;
+    border-radius: 2rem;
+    background: #3572A5;
+
+}
+.recentPosts p {
+    position: absolute;
+    width: 13rem;
+    height: 1.5rem;
+    left: 1rem;
+    top: 2rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.225rem;
+    line-height: 1.56rem;
+    color: #837E9F;
+}
+
+.post a {
+    position: absolute;
+    width: 38.25rem;
+    height: 1.9rem;
+    top: 2rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.12rem;
+    line-height: 1.4rem;
+    color: #837E9F;
+}
+.post small {
+    position: absolute;
+    width: 12rem;
+    height: 1.12rem;
+    top: 4rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.12rem;
+    color: #837E9F;
+}
+.post h3 {
+    position: absolute;
+    width: 21rem;
+    height: 1.3rem;
+    left: 10rem;
+    top: 7rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: #837E9F;
+}
+.post p {
+    position: absolute;
+    width: 15rem;
+    height: 1.2rem;
+    left: 10rem;
+    top: 9rem;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    color: #837E9F;
+}
+footer {
+    position: absolute;
+    width: 13.8rem;
+    height: 1.2rem;
+    left: 38.5rem;
+    top: 84.3rem;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.25rem;
+    
     color: #837E9F;
 }

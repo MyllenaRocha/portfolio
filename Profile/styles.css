@@ -9,12 +9,14 @@
     height: 225vh;
     
     background: #22212C;
-    border: 2px solid #200fe2;
+   /* border: 2px solid #200fe2;*/
 }
+/*
 .box {
     border: 2px solid #29888b;
     
 }
+*/
 .profile {
     position: absolute;
     width: 21.75rem;
@@ -85,9 +87,6 @@
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
 }
-.project1_low {
-
-}
 .project2 {
     position: absolute;
     width: 28.8rem;
@@ -121,24 +120,7 @@
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
 }
-.project2_low {
 
-}
-footer {
-    position: absolute;
-    width: 13.8rem;
-    height: 1.2rem;
-    left: 38.5rem;
-    top: 84.3rem;
-    
-    font-family: 'Merriweather Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 0.9rem;
-    line-height: 1.25rem;
-    
-    color: #837E9F;
-}
 /*
 @media only screen and (max-device-width: 900px) {
     .body { width:100%; }
